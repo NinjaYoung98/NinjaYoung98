@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm ChanYoung</h1>
-<h3 align="center">A passionate backend developer from SouthKorea</h3>
+### Hi there 👋, Hi 👋, I'm ChanYoung
+#### A passionate backend developer from SouthKorea 
+![A passionate backend developer from SouthKorea ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjayoung98&label=Profile%20views&color=0e75b6&style=flat" alt="ninjayoung98" /> </p>
+- about me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjayoung98" alt="ninjayoung98" /></a> </p>
+Skills: java / Spring boot / MySQL / redis /
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🌱 I’m currently learning clean code 
+- 📫 How to reach me: whcksdud8@gmail.com 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjayoung98&show_icons=true&locale=en&layout=compact" alt="ninjayoung98" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NinjaYoung98)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjayoung98&show_icons=true&locale=en" alt="ninjayoung98" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=NinjaYoung98)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninjayoung98&" alt="ninjayoung98" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NinjaYoung98)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=NinjaYoung98)  
+
+![Profile views](https://gpvc.arturio.dev/NinjaYoung98)  

@@ -18,7 +18,21 @@
 <br/>  
 
 
-# 💻 Tech Stack  
+### 💻 skills
+</br>
+
+<span style="color: red"> ㅁㅁ </span>
+
+<span style="color:#ffd33d"> yellow </span>
+
+빨강 글씨
+
+Red Font
+
+<span style="color:red">Red Text</span>
+
+</span>
+Languages & tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 <div align="center">

@@ -56,7 +56,7 @@
   
 - <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Rate-limit-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%8F-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81" target = "blank"> [프로젝트] Rate limit 핸들링을 통한 무분별한 API 호출 방지하기</a> 
 
-- <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Rate-limit-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%8F-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81" target = "blank"> [프로젝트] 로그인 실패 횟수 트래킹 2편 동시성 이슈 해결하기</a>
+- <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%8B%A4%ED%8C%A8-%ED%9A%9F%EC%88%98-%ED%8A%B8%EB%9E%98%ED%82%B9-2%ED%8E%B8-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0" target = "blank"> [프로젝트] 로그인 실패 횟수 트래킹 2편 동시성 이슈 해결하기</a>
 
 
 

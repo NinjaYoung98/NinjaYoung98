@@ -10,12 +10,10 @@
 
 ### Who?
 
-- 🌱  훌륭한 개발자로 성장하고 싶은 새싹 개발자 
-- 🚿 조언과 피드백은 나의 양분, 성장의 밑거름이라고 생각한다. (더 주세요!)
-- ⛈ 험난한 과정을 극복하게 만드는 건 나를 단단히 지탱하고 있는 소중한 지식과 경험들 (그러나 아직 새싹 뿌리)
-- 🌳 결국 그늘을 제공하는 큰 나무 처럼 세상에 이로운 가치를 만들어 낼 수 있는 훌륭한 개발자로 성장하고 싶다.
 
-👋 안녕하세요 세상에 이로운 가치를 만들어 내고 싶은 개발자 조찬영입니다!
+👋 안녕하세요 스펀지같은 개발자 조찬영입니다!
+- 주위 사람들로부터 흡수력이 좋다, 응용력이 뛰어난 것 같다는 칭찬을 들을 때 기분이 좋아집니다. 😄
+- 질문하는 것을 좋아하고 질문받는 것 또한 좋아합니다. 🙋
 
 
 </br>
@@ -54,12 +52,13 @@
 ## Favorite posts I've written
 
 
-<br/>  
 
+- <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9E%90%EC%B2%B4-%EC%97%90%EB%9F%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95" target = "blank"> [프로젝트] 서비스 자체 에러 모니터링 시스템 구축</a>
+  
 - <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Rate-limit-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%8F-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81" target = "blank"> [프로젝트] Rate limit 핸들링을 통한 무분별한 API 호출 방지하기</a> 
 
 - <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Rate-limit-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%8F-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81" target = "blank"> [프로젝트] 로그인 실패 횟수 트래킹 2편 동시성 이슈 해결하기</a>
--  <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9E%90%EC%B2%B4-%EC%97%90%EB%9F%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95" target = "blank"> [프로젝트] 서비스 자체 에러 모니터링 시스템 구축</a> 
+
 
 
     

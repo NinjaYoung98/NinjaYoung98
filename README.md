@@ -8,22 +8,6 @@
 <a href="https://velog.io/@whcksdud8"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@whcksdud8"/></a>
 <img src="https://img.shields.io/badge/whcksdud8@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 
-### Who?
-
-
-👋 안녕하세요 스펀지같은 개발자 조찬영입니다!
-- 주위 사람들로부터 흡수력이 좋다, 응용력이 뛰어난 것 같다는 칭찬을 들을 때 기분이 좋아집니다. 😄
-- 질문하는 것을 좋아하고 질문받는 것 또한 좋아합니다. 🙋
-
-
-
-### 🎯 Interest
-- 프로젝트중 동시성 이슈를 겪고 난뒤 메시지 큐잉 기술 (`Kafka`, `RabbitMQ`) 등에 관심이 생겼습니다.
-- `Redis` 를 통해 무엇을 할 수 있는지에 대해서 공부중입니다.
-- 편리하게 사용했던 `JWT`에 대한 의문이 생기기 시작했습니다.(`JWT` 보안 이슈 개선보다 세션의 성능 개선이 더 괜찮아 보이는 것 같은 생각이 자주 들곤 합니다.)
-
-
-
 
 ## 🛠 Languages & tools
 
@@ -45,18 +29,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitKraken&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-brown?style=flat&logo=Notion&logoColor=white"/>
-
-
-
-## Favorite posts I've written
-
-
-
-- <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9E%90%EC%B2%B4-%EC%97%90%EB%9F%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95" target = "blank"> [프로젝트] 서비스 자체 에러 모니터링 시스템 구축</a>
-  
-- <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Rate-limit-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%8F-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81" target = "blank"> [프로젝트] Rate limit 핸들링을 통한 무분별한 API 호출 방지하기</a> 
-
-- <a href ="https://velog.io/@whcksdud8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%8B%A4%ED%8C%A8-%ED%9A%9F%EC%88%98-%ED%8A%B8%EB%9E%98%ED%82%B9-2%ED%8E%B8-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0" target = "blank"> [프로젝트] 로그인 실패 횟수 트래킹 2편 동시성 이슈 해결하기</a>
 
 
 
